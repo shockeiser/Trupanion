@@ -13,7 +13,7 @@
 
 * Are firm specific idiosyncrasies being accounted for?
 
-  - A P&C insurer in Florida can expect claims volume to spike following a hurricane, is the system built to handle this kind of fluctuation is it better equip to handle a consistent flow of claims?
+  - A P&C insurer in Florida can expect claims volume to spike following a hurricane, is the system built to handle this kind of fluctuation?
 
 * Does the end-to-end system address the needs of the clients?
 
