@@ -2,7 +2,7 @@
 
 ## Question 2
 
-  Creating an end-to-end claims system for a client is a very big job. The first and most important step is to understand the client’s needs in great detail. This requires a dialogue with the client's employees across their entire claims process to make sure that every nuance of their business is accounted for. A few examples of the many considerations are listed below:
+  Creating an end-to-end claims system for a client is a very big job. The first step is to understand the client’s needs in great detail. This requires a dialogue with the client's employees across their entire claims process to make sure that every nuance of their business is accounted for. A few examples of the many considerations are listed below:
 
 * Are the client's and provider's technologies compatible?
   - Does the client use AWS, Azure or Google Cloud for their storage? The end-to-end solution should be as integrated as possible into the client’s current setup.
