@@ -9,7 +9,7 @@
 
 * Are vendors being disintermediated?
 
-  - Nationwide's Pet Insurance uses JPMorgan to process claims payments, so policyholders already have accounts there. The end-to-end solution should work with the key vendors that the client wishes to maintain a relationship with.
+  - Nationwide Pet Insurance uses JPMorgan to process claims payments, so policyholders already have accounts there. The end-to-end solution should work with the key vendors that the client wishes to maintain a relationship with.
 
 * Are firm specific idiosyncrasies being accounted for?
 
