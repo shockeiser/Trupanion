@@ -17,7 +17,7 @@
 
 * Does the end-to-end system address the needs of the clients?
 
-  - Reducing turnaround time at the expense of fraud detection may be an appropriate tradeoff for some clients but not others.
+  - Reducing claim turnaround time at the expense of fraud detection may be an appropriate tradeoff for some clients but not others.
 
 
 Once the needs of the client are fully understood, modules for each step in the claims process need to be built. While some of it may be as simple as moving Trupanion technology over to the client, other feautures may need to be built from the ground up. An auto insurer may require pictures of an accident and determination of fault while a pet insurer may only require a convenient form. Every business is different so there is likely to be at least some customization for every client.  
