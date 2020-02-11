@@ -1,6 +1,6 @@
 # Trupanion
 
-## Question 2
+## Part 2
 
   Creating an end-to-end claims system for a client is a very big job. The first step is to understand the client’s needs in great detail. This requires dialogue with the client's employees across their entire claims process to make sure that every nuance of their business is accounted for. A few examples of the many considerations are listed below:
 
